@@ -1,5 +1,5 @@
 Get user data 
-process it..
+process it...
 
 create an avatar for user.
 users can communicate with other users.
