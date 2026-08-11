@@ -3,3 +3,4 @@ process it...
 
 create an avatar for user.
 users can communicate with other users.
+cannot eat cookie without admin permission.
